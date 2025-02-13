@@ -13,7 +13,7 @@ This Solana-based program facilitates payments for dog food on a website and aut
 
 The program is built on Solana's blockchain and uses smart contracts to:
 
-> - Checks and processes incoming orders.
+> - Check and process incoming orders.
 > - Split the payments according to predefined percentages (80% to the team, 20% to donations).
 > - Ensure the funds are transferred securely and automatically to the designated wallets.
 
