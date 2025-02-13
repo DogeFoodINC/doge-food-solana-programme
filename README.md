@@ -30,14 +30,12 @@ The program is built on Solana's blockchain and uses smart contracts to:
 `$ npm install -g @project-serum/anchor-cli`
 
 ## Clone the Repository
-`git clone https://github.com/yourusername/solana-dogfood-payment-splitter.git`
-`cd solana-dogfood-payment-splitter`
+- `git clone https://github.com/yourusername/solana-dogfood-payment-splitter.git`
+- `cd solana-dogfood-payment-splitter`
 
 ## Deploy the Program
 To deploy the Solana smart contract, follow these steps:
 
-> > Build the program:
-`anchor build`
-> > Deploy the program to the Solana devnet/testnet/mainnet:
-`anchor deploy`
+> - Build the program: `anchor build`
+> - Deploy the program to the Solana devnet/testnet/mainnet: `anchor deploy`
 Make sure you have a Solana wallet and some SOL in your wallet for deployment costs.
